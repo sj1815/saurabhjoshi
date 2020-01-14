@@ -1,0 +1,253 @@
+
+{
+  "main": {
+    "name":"Saurabh Joshi",
+    "occupation":"(Your Occupation Here)",
+    "description":"A Software developer and Data analyst actively looking for Full-time opportunities from Feb 2020.",
+    "websiteLogo": "/images/saurabhlogo.png",
+    "image":"/images/profilepic.jpg",
+    "bio":  [" Hi, I am Saurabh Joshi, a recently graduated from Rochester Institute of Technology(RIT), New York ",
+    "with Masters in Information Sciences and Technologies. My interests in Full-Stack Development and Data Analytics. ", 
+    "I am at present actively looking for Full-time positions. I earned my Bachelor's degree in Information Technology from ",
+    "Mumbai University, India from 2013 to 2016. Previously, I also completed a diploma in Computer Technology ",
+    "from 2010 to 2013 from Maharashtra State Board of Technical Education. In my free time I like travelling to new places, am a big ", 
+    "fan of European Soccer and enjoy cooking delicious Vegetarian food."],
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email2": "saurabhvjjoshi@gmail.com",
+    "email": "sj1815@rit.edu",
+    "phone": "+1 (585) 309–3540",
+    "address":{
+      "street":"13085, Morris Road, Deerfield Village Apartments, ",
+      "city":"Alpharetta,",
+      "state":" GA, United States",
+      "zip": "30004."
+    },
+    "resumedownload":"/document/Resume_SJoshi.pdf",
+    "social":[
+      {
+        "name":"Linkedin",
+        "url":"https://www.linkedin.com/in/saurabhvjjoshi/",
+        "className":"fab fa-linkedin-in"
+      },
+      {
+        "name":"Github",
+        "url":"https://github.com/sj1815",
+        "className":"fab fa-github"
+      },
+      {
+        "name":"Facebook",
+        "url":"https://www.facebook.com/saurabh.joshi.98",
+        "className":"fab fa-facebook"
+      },
+      {
+        "name":"Instagram",
+        "url":"https://www.instagram.com/saurabhjoshi.exe/",
+        "className":"fab fa-instagram"
+      },
+      {
+        "name":"Handshake",
+        "url":"https://app.joinhandshake.com/users/6913528",
+        "className": "far fa-handshake"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skills":[
+      {
+        "name":"Java",
+        "logo":"java.png"
+      },
+      {
+        "name":"Python",
+        "logo":"python.png"
+      },
+      {
+        "name":"R",
+        "logo":"r.png"
+      },
+      {
+        "name":"C Sharp",
+        "logo":"hashtag.png"
+      },
+      {
+        "name":"HTML5",
+        "logo":"html5.png"
+      },
+      {
+        "name":"CSS3",
+        "logo":"css.png"
+      },
+      {
+        "name":"JavaScript",
+        "logo":"javascript.png"
+      },
+      {
+        "name":"TypeScript",
+        "logo":"typescript.png"
+      },
+      {
+        "name":"jQuery",
+        "logo":"jQuery.png"
+      },
+      {
+        "name":"Angular",
+        "logo":"angular.png"
+      },
+      {
+        "name":"Reactjs",
+        "logo":"react.png"
+      },
+      {
+        "name":"Redux",
+        "logo":"redux.png"
+      },
+      {
+        "name":"Node.js",
+        "logo":"nodejs.png"
+      },
+      {
+        "name":"Hibernate",
+        "logo":"hibernate.png"
+      },
+      {
+        "name":"Spring MVC",
+        "logo":"spring.png"
+      },
+      {
+        "name":"Firebase",
+        "logo":"firebase.png"
+      },
+      {
+        "name":"MySQL",
+        "logo":"mysql.png"
+      },
+      {
+        "name":"MongoDB",
+        "logo":"mongodb.png"
+      },
+      {
+        "name":"Neo4J",
+        "logo":"neo4j.png"
+      },
+      {
+        "name":"Git",
+        "logo":"git.png"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"RESTful API Client for Emergency Service Directory",
+        "category":"Designed and developed using module pattern, a Web portal for emergency services with User Interface.",
+        "image":"RESTful-API.png",
+        "url":"https://github.com/sj1815/RESTful-API-Client-for-Emergency-Service-Directory"
+      },
+      {
+        "title":"Enhanced RTO Driving License system",
+        "category":"A prototype system which can work on any touchscreen mobile device containing NFC by law enforcement officer.",
+        "image":"Enhanced-RTO-Driving-License-system.png",
+        "url":"https://github.com/sj1815/RTO_Automation"
+      },
+      {
+        "title":"Tweets Search application",
+        "category":"Simple application to search tweets using MongoDB and Node.js. Based on the user query the application creates a list on the Frontend.",
+        "image":"Tweets-Search-application.png",
+        "url":"https://github.com/sj1815/MongoDb-Tweet-Search-Tool"
+      },
+      {
+        "title":"Weather application using React.js",
+        "category":"Single page weather application with react.js and Open Weather Map API. Application provided latest weather update of various cities around the world.",
+        "image":"Weather-application-using-React.js.png",
+        "url":"https://github.com/sj1815/React-Weather-APP"
+      },
+      {
+        "title":"Fake news Data Analysis",
+        "category":"Creation of data models such as linear regression to get meaningful analysis on data on fake news.",
+        "image":"Fake-news-Data-Analysis.png",
+        "url":"https://github.com/sj1815/Fake-news-Analysis"
+      },
+      {
+        "title":"Performance Appraisal System",
+        "category":"Designed and developed appraisal system for diploma college in which students can appraise the performance of the professors in confidential pattern.",
+        "image":"Performance-Appraisal-System.png",
+        "url":"https://github.com/sj1815"
+      },
+      {
+        "title":"Soccer Dream Team Web application",
+        "category":"Vanilla JavaScript application exhibiting the dynamically created dropdown menu after selecting each choice to create a futsal (five-aside football) team. ",
+        "image":"Soccer-Dream-Team-Web-application.png",
+        "url":"https://github.com/sj1815/Javascript-Soccer-Dream-team"
+      },
+      {
+        "title":"Data Warehouse creation",
+        "category":"Created a Data warehouse project where data from three different division of a company was cleaned and transformed using MS Excel and Pentaho before loading in the star schema database created using MySQL Workbench (ETL). ",
+        "image":"Data -Warehouse-creation.png",
+        "url":"https://github.com/sj1815/Data-Warehouse"
+      },
+      {
+        "title":"California Fire Arc-Gis Mapping",
+        "category":"GIS based analysis of forest fires in the state of California.Created various GIS based maps for understanding the threats related to forest fires and option for its mitigation.",
+        "image":"California-Fire-Arc-Gis-Mapping.png",
+        "url":"https://github.com/sj1815/Arc-GIS-California-Fire"
+      },
+      {
+        "title":"Mobile App review based classification",
+        "category":"Text mining and analysis of the unstructured data from google play of various android applications.",
+        "image":"Mobile-App-review-based-classification.png",
+        "url":"https://github.com/sj1815/Arc-GIS-California-Fire"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  },
+  "history":{
+    "information" : [
+      {
+        "date": "August 2010 to June 2013",
+        "title": "Thakur Polytechnic(MSBTE)",
+        "subtitle": "Mumbai, Maharashtra, India",
+        "description": "Diploma in Computer Technology",
+        "icon": "1",
+        "type": "vertical-timeline-element--education"
+      },
+      {
+        "date": "August 2013 to June 2016",
+        "title": "Mumbai University",
+        "subtitle": "Mumbai, Maharashtra, India",
+        "description": "B.E, Information Technology",
+        "icon": "1",
+        "type": "vertical-timeline-element--education"
+      },
+      {
+        "date": "August 2017 to December 2019",
+        "title": "Rochester Institute of Technology",
+        "subtitle": "Rochester, NY, United States",
+        "description": "MS, Information Science and Technologies",
+        "icon": "1",
+        "type": "vertical-timeline-element--education"
+      },
+      {
+        "date": "August 2019 to December 2019",
+        "title": "Student Lab Assistant",
+        "subtitle": "RIT, Dept of IST",
+        "description": ["Helping System Administrator with looking after lab requirements and resolving software hardware",
+           " and networking issues. Maintaining the inventory for all the department labs."],
+        "icon": "2",
+        "type": "vertical-timeline-element--work"
+      }
+    
+    ]
+  }
+}
