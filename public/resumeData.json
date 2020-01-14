@@ -6,12 +6,12 @@
     "description":"A Software developer and Data analyst actively looking for Full-time opportunities from Feb 2020.",
     "websiteLogo": "/images/saurabhlogo.png",
     "image":"/images/profilepic.jpg",
-    "bio":  [" Hi, I am Saurabh Joshi, a recently graduated from Rochester Institute of Technology(RIT), New York ",
-    "with Masters in Information Sciences and Technologies. My interests in Full-Stack Development and Data Analytics. ", 
-    "I am at present actively looking for Full-time positions. I earned my Bachelor's degree in Information Technology from ",
-    "Mumbai University, India from 2013 to 2016. Previously, I also completed a diploma in Computer Technology ",
-    "from 2010 to 2013 from Maharashtra State Board of Technical Education. In my free time I like travelling to new places, am a big ", 
-    "fan of European Soccer and enjoy cooking delicious Vegetarian food."],
+    "bio":  [" Hi, I am Saurabh Joshi, a recent graduate from Rochester Institute of Technology (RIT), New York ",
+    "with Master's in Information Sciences and Technologies. My passions are Software Engineering, Full-Stack Development and Data Analytics. ", 
+    "I am at present actively looking for Full-time positions in United  States. I like solving complex technical challenges using logical thinking. ",
+    "I always look forward to learning newer things, which can help me evolve my knowledge, with the aim to deliver optimum results with ",
+    "excellence. In my free time I like travelling to new places, watching ", 
+    "European Soccer and I enjoy cooking delicious Vegetarian food."],
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email2": "saurabhvjjoshi@gmail.com",
     "email": "sj1815@rit.edu",
@@ -33,6 +33,11 @@
         "name":"Github",
         "url":"https://github.com/sj1815",
         "className":"fab fa-github"
+      },
+      {
+        "name":"Personal Website",
+        "url":"http://saurabhjoshi.herokuapp.com/",
+        "className":"far fa-user-circle"
       },
       {
         "name":"Facebook",

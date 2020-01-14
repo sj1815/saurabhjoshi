@@ -22,7 +22,12 @@ class Footer extends Component {
               <li>&copy; Copyright 2020 Saurabh</li>
               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
            </ul>
-           <div>Icons made by <a href="https://www.flaticon.com/authors/becris" title="Becris">Becris</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+          
+           <ul className="copyright">
+            <li>Developed using <a title="React" href="https://reactjs.org/">React</a></li>
+                <li>Deployed on <a title="Heroku" href="https://www.heroku.com/">Heroku</a></li>
+            <div>Icons made by <a href="https://www.flaticon.com/authors/becris" title="Becris">Becris</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+           </ul>
         </div>
         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>
      </div>
