@@ -243,7 +243,7 @@ ul#nav li.current a { color: #EC9600; }
 #about p {
    line-height: 30px;
    color: #2B2B2B;
-   text-align: justify;
+   text-align: left;
 }
 #about .profile-pic {
    position: relative;
